@@ -1,0 +1,4 @@
+builds/gam_Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
+builds/game_Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
+builds/game2_Data/resources.assets.resS filter=lfs diff=lfs merge=lfs -text
+builds/game2_Data/sharedassets3.assets.resS filter=lfs diff=lfs merge=lfs -text
